@@ -56,3 +56,10 @@ body {
     height: auto;
     padding: 20px;
 }
+
+.container-1 {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
